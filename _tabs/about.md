@@ -39,14 +39,3 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes
 **Correo electrónico**: alvaritofalcon26@gmail.com
 
 ¡Gracias por visitar mi blog! 🚀
-<a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
-
----
-
-## Contacto 📫
-
-Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en escribirme!
-
-**Correo electrónico**: alvaritofalcon26@gmail.com
-
-¡Gracias por visitar mi blog! 🚀
