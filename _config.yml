@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/Alv-fh/IMAGES/refs/heads/main/lobo_finak.png?token=GHSAT0AAAAAACZ335GGBVACTLEAD4NTWIAWZZGB5QQ
+avatar: https://github.com/user-attachments/assets/4d429993-bd8b-4655-8385-4afd35dec52d
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -224,7 +224,3 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# Añadir hoja de estilos personalizada
-assets:
-  css:
-    - /assets/custom.css
