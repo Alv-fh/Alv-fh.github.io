@@ -1,43 +1,35 @@
-# Chirpy Starter
+# Hello, I'm Alv-fh 👋
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+📚 I am a Pentester in the learning phase 
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+🎓 Technician in Microcomputer Systems and Networks
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+🔴 Red Team
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+Este blog es mi espacio para compartir conocimientos y experiencias sobre ciberseguridad, especialmente en el ámbito del **Red Team**. A medida que avanzo en mi aprendizaje, iré publicando guías, recursos y notas que puedan ser de utilidad para otros entusiastas y profesionales de la seguridad informática.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## Temas que encontrarás aquí 🔍
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+- **Pentesting**: Mis avances en la práctica y teoría del pentesting.
+- **Red Team**: Estrategias, técnicas y herramientas enfocadas en pruebas de intrusión ofensivas.
+- **Ciberseguridad**: Artículos sobre prácticas y conceptos clave en seguridad informática.
+- **Redes y sistemas**: Tips y buenas prácticas sobre sistemas y redes, alineados con mi experiencia técnica.
 
-## Usage
+---
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+## Puedes encontrarme 🌍:
 
-## Contributing
+<a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://Alv-fh.gitbook.io/main" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitBook&color=222222&logo=GitBook&logoColor=BBDDE5&label="/></a>
+<a href="https://www.youtube.com/@Alv-fh/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+---
 
-## License
+## Contacto 📫
 
-This work is published under [MIT][mit] License.
+Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en escribirme!
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+**Correo electrónico**: alvaritofalcon26@gmail.com
+
+¡Gracias por visitar mi blog! 🚀
