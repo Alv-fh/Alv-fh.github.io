@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 
 title: Alv-fh | Blog #the main title
 
-tagline: Estudiante de Administración de Sistemas Informáticos en Red (ASIR) Pentester / Red Team / Técnico Sistemas Microinformáticos y Redes  #it will display as the subtitle
+tagline: ASIR en proceso / Pentester / Red Team / SMR # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Esta es mi página Web, en donde subiré todos mis Writeups, nuevas certificaciones, artículos, etc.
