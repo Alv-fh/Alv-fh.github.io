@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/user-attachments/assets/4d429993-bd8b-4655-8385-4afd35dec52d
+avatar: "/assets/img/logo_lobito.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
