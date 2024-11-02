@@ -223,3 +223,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Añadir hoja de estilos personalizada
+assets:
+  css:
+    - /assets/custom.css
