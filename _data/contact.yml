@@ -23,10 +23,6 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/%C3%A1lvaro-falc%C3%B3n-hern%C3%A1ndez-76699b274/'                  # Fill with your Linkedin homepage
 
-- type_ youtube
-  icon: 'fab fa-youtube'
-  url:  'https://www.youtube.com/@Alv-fh'
-
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
