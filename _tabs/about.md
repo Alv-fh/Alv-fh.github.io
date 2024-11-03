@@ -25,20 +25,20 @@ Este blog es mi espacio para compartir conocimientos y experiencias sobre cibers
 
 ## Puedes encontrarme 🌍
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="_blank">
+<p style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Alv-fh" target="_blank">
+  <a href="https://github.com/Alv-fh" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=222222&logo=github&logoColor=BBDDE5&label=" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.youtube.com/@Alv-fh/videos" target="_blank">
+  <a href="https://www.youtube.com/@Alv-fh/videos" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="mailto:alvaritofalcon26@gmail.com" target="_blank">
+  <a href="mailto:alvaritofalcon26@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</div>
+</p>
 
 ---
 
