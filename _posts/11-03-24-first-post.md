@@ -1,5 +1,5 @@
 ---
-title: Mi primer post en mi nuevo blog
+title: Primer post en mi nuevo blog 📝
 description:  El objetivo de este blog es reflejar mis conocimientos a las personas que se estén adentrando al mundo de la ciberseguridad.
 date: 2024-11-02
 categories: [Blog, Alv-fh]
