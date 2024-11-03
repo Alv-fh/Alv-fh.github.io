@@ -4,8 +4,8 @@ description:  El objetivo de este blog es reflejar mis conocimientos a las perso
 date: 2024-11-02
 categories: [Blog, Alv-fh]
 tags: [Blog, Personal, Alv-fh]
-img_path: /assets/img/Alv-fh-blog.png
-image: /assets/img/Alv-fh-blog.png
+img_path: "/assets/img/Alv-fh-blog.png"
+image: "/assets/img/Alv-fh-blog.png"
 ---
 
 # 🔥 Bienvenidos a mi nuevo Blog de Pentesting y Seguridad Informática 🔥
