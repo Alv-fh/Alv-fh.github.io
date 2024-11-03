@@ -25,10 +25,18 @@ Este blog es mi espacio para compartir conocimientos y experiencias sobre cibers
 
 ## Puedes encontrarme 🌍:
 
-<a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Alv-fh" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=222222&logo=github&logoColor=BBDDE5&label="/></a>
-<a href="https://www.youtube.com/@Alv-fh/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
+<a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://github.com/Alv-fh" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=222222&logo=github&logoColor=BBDDE5&label=" alt="GitHub Badge"/>
+</a>
+<a href="https://www.youtube.com/@Alv-fh/videos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+</a>
+<a href="mailto:alvaritofalcon26@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 
 ---
 
