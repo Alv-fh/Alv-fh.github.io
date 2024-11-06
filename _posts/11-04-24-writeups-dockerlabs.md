@@ -11,27 +11,27 @@ image: "/assets/img/dockerLabs.png"
 
 # Índice de máquinas resueltas 📝
 
-## - [Stellarjwt](#stellarjwt)
-## - [Amor](#amor)
-## - [AnonymousPingu](#anonymouspingu)
-## - [BorazuwarahCTF](#borazuwarahctf)
-## - [BreakMySSH](#breakmyssh)
-## - [BuscaLove](#buscalove)
-## - [Escolares](#escolares)
-## - [FirstHacking](#firsthacking)
-## - [Hidden](#hidden)
-## - [HiddenCat](#hiddencat)
-## - [Inyection](#inyection)
-## - [Move](#move)
-## - [NodeClimb](#nodeclimb)
-## - [SecretJenkins](#secretjenkins)
-## - [Trust](#trust)
-## - [Upload](#upload)
-## - [Vacaciones](#vacaciones)
+# - [Stellarjwt](#stellarjwt)
+# - [Amor](#amor)
+# - [AnonymousPingu](#anonymouspingu)
+# - [BorazuwarahCTF](#borazuwarahctf)
+# - [BreakMySSH](#breakmyssh)
+# - [BuscaLove](#buscalove)
+# - [Escolares](#escolares)
+# - [FirstHacking](#firsthacking)
+# - [Hidden](#hidden)
+# - [HiddenCat](#hiddencat)
+# - [Inyection](#inyection)
+# - [Move](#move)
+# - [NodeClimb](#nodeclimb)
+# - [SecretJenkins](#secretjenkins)
+# - [Trust](#trust)
+# - [Upload](#upload)
+# - [Vacaciones](#vacaciones)
 
 ---
 
-# [Stellarjwt](#índice-de-máquinas-resueltas-)
+## [Stellarjwt](#índice-de-máquinas-resueltas-)
 
 #### [🔗 **Link de la resolución en video**](https://www.youtube.com/watch?v=qnQ2cHklurU)
 
@@ -219,7 +219,7 @@ Espero que os haya gustado :)
 
 ---
 
-# [Amor](#índice-de-máquinas-resueltas-)
+## [Amor](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/amor/1.png)
 
@@ -313,7 +313,7 @@ Espero que os haya gustado :)
 
 ---
 
-# [AnonymousPingu](#índice-de-máquinas-resueltas-)
+## [AnonymousPingu](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/anonymouspingu/1.png)
 
@@ -527,7 +527,7 @@ gladys:x:1002:1002::/home/gladys:/bin/bash' > /etc/passwd
 
 ---
 
-# [BorazuwarahCTF](#índice-de-máquinas-resueltas-)
+## [BorazuwarahCTF](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/borazuwarahCTF/1.png)
 
@@ -619,7 +619,7 @@ Por lo que lo tenemos muy sencillo. Si ejecutamos una bash como privilegiado con
 
 ---
 
-# [BreakMySSH](#índice-de-máquinas-resueltas-)
+## [BreakMySSH](#índice-de-máquinas-resueltas-)
 
 ![2](/assets/img/writeups/BreakMySSH/2.png)
 
@@ -675,7 +675,7 @@ Por lo que lo tenemos muy sencillo. Si ejecutamos una bash como privilegiado con
 
 ---
 
-# [BuscaLove](#índice-de-máquinas-resueltas-)
+## [BuscaLove](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/BuscaLove/1.png)
 
@@ -792,7 +792,7 @@ Lo intento con pedro, pero no hay resultado, así que probamos con rosa.
 
 ---
 
-# [Escolares](#índice-de-máquinas-resueltas-)
+## [Escolares](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/Escolares/1.png)
 
@@ -904,7 +904,7 @@ Lo intento con pedro, pero no hay resultado, así que probamos con rosa.
 
 ---
 
-# [FirstHacking](#índice-de-máquinas-resueltas-)
+## [FirstHacking](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/FirstHacking/1.png)
 
@@ -964,7 +964,7 @@ Lo intento con pedro, pero no hay resultado, así que probamos con rosa.
 
 ---
 
-# [Hidden](#índice-de-máquinas-resueltas-)
+## [Hidden](#índice-de-máquinas-resueltas-)
 
 ![27](/assets/img/writeups/Hidden/27.png)
 
@@ -1135,7 +1135,7 @@ Por los tanto lo añadimos al fichero /etc/hosts.
 
 ---
 
-# [HiddenCat](#índice-de-máquinas-resueltas-)
+## [HiddenCat](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/HiddenCat/1.png)
 
@@ -1207,7 +1207,7 @@ Por los tanto lo añadimos al fichero /etc/hosts.
 
 ---
 
-# [Inyection](#índice-de-máquinas-resueltas-)
+## [Inyection](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/Inyection/1.png)
 
@@ -1299,7 +1299,7 @@ Y conseguimos ser root!
 
 ---
 
-# [Move](#índice-de-máquinas-resueltas-)
+## [Move](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/Move/19.png)
 
@@ -1419,7 +1419,7 @@ Y conseguimos ser root!
 
 ---
 
-# [NodeClimb](#índice-de-máquinas-resueltas-)
+## [NodeClimb](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/NodeClimb/1.png)
 
@@ -1522,7 +1522,7 @@ Y conseguimos ser root!
 
 ---
 
-# [SecretJenkins](#índice-de-máquinas-resueltas-)
+## [SecretJenkins](#índice-de-máquinas-resueltas-)
 
 ![1](/assets/img/writeups/SecretJenkins/1.png)
 
@@ -1604,7 +1604,7 @@ Y conseguimos ser root!
 
 ---
 
-# [Trust](#índice-de-máquinas-resueltas-)
+## [Trust](#índice-de-máquinas-resueltas-)
 
 ![1](https://github.com/user-attachments/assets/b93aa5be-e943-464e-80e6-e4d5d7721685)
 
@@ -1668,7 +1668,7 @@ Puerto **22 -> SSH**
 
 ---
 
-# [Upload](#índice-de-máquinas-resueltas-)
+## [Upload](#índice-de-máquinas-resueltas-)
 
 ![1](https://github.com/user-attachments/assets/1a24ac12-b972-42e6-b824-2f3b529b29d4)
 
@@ -1741,7 +1741,7 @@ Puerto **80 -> HTTP**
 
 ---
 
-# [Vacaciones](#índice-de-máquinas-resueltas-)
+## [Vacaciones](#índice-de-máquinas-resueltas-)
 
 ![1](https://github.com/Alv-fh/Dockerlabs_machines_writeups/assets/109484163/0f957329-b9f8-45de-b7a3-360ebff019cc)
 
