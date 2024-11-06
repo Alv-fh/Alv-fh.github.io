@@ -1393,7 +1393,7 @@ Y conseguimos ser root!
 
 ![13](/assets/img/writeups/Move/13.png)
 
-- Vemos que podemos ejecutar como cualquier usuario el script de python llamado [maintenance.py](http://maintenance.py/).
+- Vemos que podemos ejecutar como cualquier usuario el script de python llamado maintenance.py
 
 ![14](/assets/img/writeups/Move/14.png)
 
