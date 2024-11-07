@@ -110,7 +110,7 @@ dir > Para indicar que va a buscar directorios (rutas)
 
 ![7](/assets/img/writeups/stellarjwt/7.png)
 
-- Buscamos en la Web [JWT](https://jwt.io/) y encontramos el primer usuario: **neptuno**.
+- Buscamos en la Web [JWT](https://jwt.io/) y encontramos el primer usuario: **neptuno**
 
 ![8](/assets/img/writeups/stellarjwt/8.png)
 
