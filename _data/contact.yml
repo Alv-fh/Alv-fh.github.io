@@ -6,6 +6,18 @@
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
+- type: youtube
+  icon: 'fa-brands fa-youtube'
+  url:  'https://youtube.com/@Alv-fh'
+
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/alv-fh/'
+
+
+
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
@@ -14,14 +26,7 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-- type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/alv-fh/'                  # Fill with your Linkedin homepage
-
 #
-- type: youtube
-  icon: 'fa-brands fa-youtube'
-  url:  'https://youtube.com/@Alv-fh'                  # Fill with your stackoverflow homepage
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
