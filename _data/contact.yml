@@ -16,12 +16,12 @@
 #
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/%C3%A1lvaro-falc%C3%B3n-hern%C3%A1ndez-76699b274/'                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/alv-fh/'                  # Fill with your Linkedin homepage
 
 #
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+- type: youtube
+  icon: 'fa-brands fa-youtube'
+  url:  'https://youtube.com/@Alv-fh'                  # Fill with your stackoverflow homepage
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
