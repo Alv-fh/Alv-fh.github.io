@@ -51,7 +51,7 @@ Alv-tools allows for several common pentesting tasks:
 
 ## Installation
 
-[🔗 Link Github | Alv-tools](https://github.com/Alv-fh/Alv-tools)
+[🔗 Link Github - Alv-tools](https://github.com/Alv-fh/Alv-tools)
 
 ```bash
 git clone https://github.com/Alv-fh/Alv-tools.git
