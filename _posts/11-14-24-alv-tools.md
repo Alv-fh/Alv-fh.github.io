@@ -29,12 +29,12 @@ image: "assets/img/alvtools.jpeg"
   - [Installation](#installation)
   - [Usage](#usage)
   - [Demo](#demo)
-    - [-h, --help](#-h---help)
-    - [-p, --portscan](#-p---portscan)
-    - [-s, --serviceenum](#-s---serviceenum)
-    - [-a, --arp-scan](#-a---arp-scan)
-    - [-o, --osdetect](#-o---osdetect)
-    - [-f, --fullscan](#-f---fullscan)
+    - [Manual](#manual)
+    - [Port Scan](#port-scan)
+    - [Service Enum](#service-enum)
+    - [ARP Scan](#arp-scan)
+    - [OS Detect](#os-detect)
+    - [Full Scan](#full-scan)
   
 ---
 
@@ -67,27 +67,27 @@ sudo bash alv-tools.sh [OPTION] [TARGET]
 
 ## Demo
 
-### -h, --help
+### Manual
 
 ![help](https://github.com/user-attachments/assets/63c6d66b-8f94-45fc-9fcf-f69cc3046ae0)
 
-### -p, --portscan
+### Port Scan
 
 ![ports](https://github.com/user-attachments/assets/e2d6f38e-6d6e-44b6-9e7c-7c63a61bd9bf)
 
-### -s, --serviceenum
+### Service Enum
 
 ![services](https://github.com/user-attachments/assets/6ff91b9e-d976-4227-a505-da37606925bc)
 
-### -a, --arp-scan
+### ARP Scan
 
 ![arp-scan](https://github.com/user-attachments/assets/02c6dfdf-9037-45af-acb2-85eb3c7dbaee)
 
-### -o, --osdetect
+### OS Detect
 
 ![os](https://github.com/user-attachments/assets/e85f41b5-a27e-4ed7-9172-a7a5ed3c8ba4)
 
-### -f, --fullscan
+### Full Scan
 
 ![fullscan](https://github.com/user-attachments/assets/97d8acf1-524c-43d3-8e52-7af393450edd)
 
