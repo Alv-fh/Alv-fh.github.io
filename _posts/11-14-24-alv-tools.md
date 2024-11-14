@@ -56,7 +56,7 @@ Alv-tools allows for several common pentesting tasks:
 ```bash
 git clone https://github.com/Alv-fh/Alv-tools.git
 cd Alv-tools
-sudo bash alv-tools -h
+sudo bash alv-tools.sh -h
 ```
 
 ## Usage
