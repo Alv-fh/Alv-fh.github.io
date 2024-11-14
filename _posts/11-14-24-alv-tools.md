@@ -35,7 +35,7 @@ image: "assets/img/alvtools.jpeg"
     - [-a, --arp-scan](#-a---arp-scan)
     - [-o, --osdetect](#-o---osdetect)
     - [-f, --fullscan](#-f---fullscan)
-  - [Goal for EJPTv2 \> $249](#goal-for-ejptv2--249)
+  
 ---
 
 ## Features
@@ -91,6 +91,6 @@ sudo bash alv-tools.sh [OPTION] [TARGET]
 
 ![fullscan](https://github.com/user-attachments/assets/97d8acf1-524c-43d3-8e52-7af393450edd)
 
-## Goal for EJPTv2 > $249
+Goal for EJPTv2 > $249
 
 <a href='https://ko-fi.com/W7W313M7FS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
