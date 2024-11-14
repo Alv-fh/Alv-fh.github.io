@@ -8,7 +8,7 @@ img_path: "assets/img/alvtools.jpeg"
 image: "assets/img/alvtools.jpeg"
 ---
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Alv-tools - Pentesting Toolkit
+# Alv-tools - Pentesting Toolkit
 
 ## Introducción
 
@@ -23,7 +23,7 @@ image: "assets/img/alvtools.jpeg"
 - Dicho esto, empezemos con la instalación y uso...
 
 ---
-- [ Alv-tools - Pentesting Toolkit](#-alv-tools---pentesting-toolkit)
+- [Alv-tools - Pentesting Toolkit](#alv-tools---pentesting-toolkit)
   - [Introducción](#introducción)
   - [Features](#features)
   - [Installation](#installation)
