@@ -2,13 +2,17 @@
 title: Alv-tools, mi primera herramienta 🛠️
 description: Os enseñaré mi primera herramienta creada con Bash, como instalarla, como funciona etc.
 date: 2024-11-14
-categories: [Tools, Reconocimiento, Bash]
-tags: [Tools, Reconocimiento, Bash, Scripting]
+categories: [Vagrant, Pentesting, CTF]
+tags: [Vagrant, Pentesting, CTF, Scripting]
 img_path: "assets/img/alvtools.jpeg"
 image: "assets/img/alvtools.jpeg"
 ---
 
-# Alv-tools - Pentesting Toolkit
+# Cómo usar Vagrant para configurar un entorno de Pentesting seguro y replicable
+
+## Última actualización de la herramienta
+
+18-11-2024 -> He arreglado la herramienta ya que en algunos parámetros si no estaba instalado nmap, no lo instalaba automáticamente.
 
 ## Introducción
 
@@ -23,7 +27,8 @@ image: "assets/img/alvtools.jpeg"
 - Dicho esto, empezemos con la instalación y uso...
 
 ---
-- [Alv-tools - Pentesting Toolkit](#alv-tools---pentesting-toolkit)
+- [Cómo usar Vagrant para configurar un entorno de Pentesting seguro y replicable](#cómo-usar-vagrant-para-configurar-un-entorno-de-pentesting-seguro-y-replicable)
+  - [Última actualización de la herramienta](#última-actualización-de-la-herramienta)
   - [Introducción](#introducción)
   - [Features](#features)
   - [Installation](#installation)
