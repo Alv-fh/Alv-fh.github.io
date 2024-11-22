@@ -8,7 +8,6 @@ img_path: "/assets/img/dockerLabs.png"
 image: "/assets/img/dockerLabs.png"
 ---
 
-
 # Índice de máquinas resueltas 📝
 
 # - [Stellarjwt](#stellarjwt)
@@ -246,10 +245,10 @@ Espero que os haya gustado :)
 
 #### Puertos y Servicios abiertos
 
-| Puerto | Servicio | Versión |
-| --- | --- | --- |
-| 22 | SSH | OpenSSH 9.6p1 |
-| 80 | HTTP | Apache 2.4.58 |
+| Puerto | Servicio | Versión       |
+| ------ | -------- | ------------- |
+| 22     | SSH      | OpenSSH 9.6p1 |
+| 80     | HTTP     | Apache 2.4.58 |
 
 ### Fase de Explotación
 
@@ -351,9 +350,9 @@ Espero que os haya gustado :)
 ![3](/assets/img/writeups/anonymouspingu/3.png)
 
 | Puertos | Servicio |
-| --- | --- |
-| 21/TCP | FTP |
-| 80/TCP | HTTP |
+| ------- | -------- |
+| 21/TCP  | FTP      |
+| 80/TCP  | HTTP     |
 
 Hacemos un escaneo más preciso.
 
@@ -564,9 +563,9 @@ gladys:x:1002:1002::/home/gladys:/bin/bash' > /etc/passwd
 ![3](/assets/img/writeups/borazuwarahCTF/3.png)
 
 | Puerto | Servicio |
-| --- | --- |
-| 22/TCP | SSH |
-| 80/TCP | HTTP |
+| ------ | -------- |
+| 22/TCP | SSH      |
+| 80/TCP | HTTP     |
 
 - Ahora vamos a comprobar la versión, Sistema Operativo y va a tirar unos scripts básicos de reconocimiento.
 
@@ -654,8 +653,8 @@ Por lo que lo tenemos muy sencillo. Si ejecutamos una bash como privilegiado con
 ![4](/assets/img/writeups/BreakMySSH/4.png)
 
 | Puerto | Servicio |
-| --- | --- |
-| 22 | SSH |
+| ------ | -------- |
+| 22     | SSH      |
 
 - Ahora hacemos un escaneo más profundo en el que averiguaremos la versión, SO, y tirará scripts de reconocimiento.
 
@@ -702,9 +701,9 @@ Por lo que lo tenemos muy sencillo. Si ejecutamos una bash como privilegiado con
 ![3](/assets/img/writeups/BuscaLove/3.png)
 
 | Puertos | Servicio |
-| --- | --- |
-| 22/TCP | SSH |
-| 80/TCP | HTTP |
+| ------- | -------- |
+| 22/TCP  | SSH      |
+| 80/TCP  | HTTP     |
 
 - Escaneo más preciso, a los puertos en específico.
 
@@ -1157,11 +1156,11 @@ Por los tanto lo añadimos al fichero /etc/hosts.
 
 ![3](/assets/img/writeups/HiddenCat/3.png)
 
-| Puerto | Servicio | Versión |
-| --- | --- | --- |
-| 22 | SSH | 7.9p1 |
-| 8009 | Apache Jserv | 1.3 |
-| 8080 | Apache Tomcat | 9.0.30 |
+| Puerto | Servicio      | Versión |
+| ------ | ------------- | ------- |
+| 22     | SSH           | 7.9p1   |
+| 8009   | Apache Jserv  | 1.3     |
+| 8080   | Apache Tomcat | 9.0.30  |
 
 - Buscamos en el Navegador y aparece esto:
 
@@ -1243,9 +1242,9 @@ Por los tanto lo añadimos al fichero /etc/hosts.
 ![3](/assets/img/writeups/Inyection/3.png)
 
 | Puerto | Servicio |
-| --- | --- |
-| 22/TCP | SSH |
-| 80/TCP | HTTP |
+| ------ | -------- |
+| 22/TCP | SSH      |
+| 80/TCP | HTTP     |
 
 ### Fase de Explotación
 
@@ -1449,10 +1448,10 @@ Y conseguimos ser root!
 
 #### Puertos y Servicios
 
-| Puerto | Servicio | Versión |
-| --- | --- | --- |
-| 21 | FTP | Vsftpd 3.0.3 |
-| 22 | SSH | OpenSSH 9.2p1 |
+| Puerto | Servicio | Versión       |
+| ------ | -------- | ------------- |
+| 21     | FTP      | Vsftpd 3.0.3  |
+| 22     | SSH      | OpenSSH 9.2p1 |
 
 ### Fase de Explotación
 

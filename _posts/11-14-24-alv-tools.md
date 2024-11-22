@@ -8,8 +8,6 @@ img_path: "assets/img/alvtools.jpeg"
 image: "assets/img/alvtools.jpeg"
 ---
 
-# Cómo usar Vagrant para configurar un entorno de Pentesting seguro y replicable
-
 ## Última actualización de la herramienta
 
 18-11-2024 -> He arreglado la herramienta ya que en algunos parámetros si no estaba instalado nmap, no lo instalaba automáticamente.
@@ -27,19 +25,18 @@ image: "assets/img/alvtools.jpeg"
 - Dicho esto, empezemos con la instalación y uso...
 
 ---
-- [Cómo usar Vagrant para configurar un entorno de Pentesting seguro y replicable](#cómo-usar-vagrant-para-configurar-un-entorno-de-pentesting-seguro-y-replicable)
-  - [Última actualización de la herramienta](#última-actualización-de-la-herramienta)
-  - [Introducción](#introducción)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Demo](#demo)
-    - [Manual](#manual)
-    - [Port Scan](#port-scan)
-    - [Service Enum](#service-enum)
-    - [ARP Scan](#arp-scan)
-    - [OS Detect](#os-detect)
-    - [Full Scan](#full-scan)
+- [Última actualización de la herramienta](#última-actualización-de-la-herramienta)
+- [Introducción](#introducción)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Demo](#demo)
+  - [Manual](#manual)
+  - [Port Scan](#port-scan)
+  - [Service Enum](#service-enum)
+  - [ARP Scan](#arp-scan)
+  - [OS Detect](#os-detect)
+  - [Full Scan](#full-scan)
   
 ---
 
