@@ -2,8 +2,8 @@
 title: Alv-tools, mi primera herramienta 🛠️
 description: Os enseñaré mi primera herramienta creada con Bash, como instalarla, como funciona etc.
 date: 2024-11-14
-categories: [Vagrant, Pentesting, CTF]
-tags: [Vagrant, Pentesting, CTF, Scripting]
+categories: [Pentesting, CTF]
+tags: [Pentesting, CTF, Scripting]
 img_path: "assets/img/alvtools.jpeg"
 image: "assets/img/alvtools.jpeg"
 ---
